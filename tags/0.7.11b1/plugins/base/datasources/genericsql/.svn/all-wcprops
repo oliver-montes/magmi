@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/plugins/base/datasources/genericsql
+END
+sql_datasource.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/plugins/base/datasources/genericsql/sql_datasource.php
+END
+options_panel.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/plugins/base/datasources/genericsql/options_panel.php
+END
+other_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/plugins/base/datasources/genericsql/other_options.php
+END
+mysql_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/plugins/base/datasources/genericsql/mysql_options.php
+END

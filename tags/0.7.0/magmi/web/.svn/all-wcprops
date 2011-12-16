@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web
+END
+magmi_profile_panel.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_profile_panel.php
+END
+magmi_saveprofile.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_saveprofile.php
+END
+magmi.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/footer.php
+END
+magmi_saveconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_saveconfig.php
+END
+magmi_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_upload.php
+END
+magmi_profile_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_profile_config.php
+END
+magmi_config_setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_config_setup.php
+END
+magmi_cancel.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_cancel.php
+END
+head.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/head.php
+END
+plugin_upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/plugin_upload.php
+END
+trace_details.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/trace_details.php
+END
+ajax_pluginconf.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/ajax_pluginconf.php
+END
+magmi_web_utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_web_utils.php
+END
+magmi_import_run.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_import_run.php
+END
+magmi_import_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_import_config.php
+END
+progress_details.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/progress_details.php
+END
+magmi_chooseprofile.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_chooseprofile.php
+END
+magmi_progress.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_progress.php
+END
+magmi_run.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/magmi_run.php
+END
+progress_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/progress_parser.php
+END
+clearcatalog.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/clearcatalog.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/magmi/!svn/ver/308/tags/0.7.0/magmi/web/header.php
+END

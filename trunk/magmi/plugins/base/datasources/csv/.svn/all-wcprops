@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/magmi/!svn/ver/814/trunk/magmi/plugins/base/datasources/csv
+END
+options_panel.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/magmi/!svn/ver/788/trunk/magmi/plugins/base/datasources/csv/options_panel.php
+END
+csvds_filelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/magmi/!svn/ver/814/trunk/magmi/plugins/base/datasources/csv/csvds_filelist.php
+END
+magmi_csvdatasource.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/magmi/!svn/ver/813/trunk/magmi/plugins/base/datasources/csv/magmi_csvdatasource.php
+END

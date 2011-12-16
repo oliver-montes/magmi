@@ -1,0 +1,43 @@
+10
+
+dir
+823
+https://magmi.svn.sourceforge.net/svnroot/magmi/tags/0.7.0/magmi/plugins/base/itemprocessors
+https://magmi.svn.sourceforge.net/svnroot/magmi
+
+
+
+2011-02-21T17:01:48.838662Z
+306
+dweeves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69904d63-209b-40b2-b39f-34af9802e1b1
+
+importlimiter
+dir
+
+genericmapper
+dir
+
+columnmapper
+dir
+
+configurables
+dir
+
+defaultvalues
+dir
+

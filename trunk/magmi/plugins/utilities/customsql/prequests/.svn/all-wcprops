@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/magmi/!svn/ver/761/trunk/magmi/plugins/utilities/customsql/prequests
+END
+removeallorphans.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/magmi/!svn/ver/746/trunk/magmi/plugins/utilities/customsql/prequests/removeallorphans.sql
+END
+resetstock.sql.desc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/magmi/!svn/ver/556/trunk/magmi/plugins/utilities/customsql/prequests/resetstock.sql.desc
+END
+removecats.sql.desc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/magmi/!svn/ver/568/trunk/magmi/plugins/utilities/customsql/prequests/removecats.sql.desc
+END
+removeorphans.sql.desc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/magmi/!svn/ver/725/trunk/magmi/plugins/utilities/customsql/prequests/removeorphans.sql.desc
+END
+resetimages.sql.desc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/magmi/!svn/ver/756/trunk/magmi/plugins/utilities/customsql/prequests/resetimages.sql.desc
+END
+resetstock.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/magmi/!svn/ver/565/trunk/magmi/plugins/utilities/customsql/prequests/resetstock.sql
+END
+pagelayout.sql.desc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/magmi/!svn/ver/599/trunk/magmi/plugins/utilities/customsql/prequests/pagelayout.sql.desc
+END
+testorphans.sql.desc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/magmi/!svn/ver/733/trunk/magmi/plugins/utilities/customsql/prequests/testorphans.sql.desc
+END
+removecats.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/magmi/!svn/ver/568/trunk/magmi/plugins/utilities/customsql/prequests/removecats.sql
+END
+removeorphans.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/magmi/!svn/ver/746/trunk/magmi/plugins/utilities/customsql/prequests/removeorphans.sql
+END
+resetimages.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/magmi/!svn/ver/761/trunk/magmi/plugins/utilities/customsql/prequests/resetimages.sql
+END
+pagelayout.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/magmi/!svn/ver/599/trunk/magmi/plugins/utilities/customsql/prequests/pagelayout.sql
+END
+testorphans.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/magmi/!svn/ver/746/trunk/magmi/plugins/utilities/customsql/prequests/testorphans.sql
+END
+removeallorphans.sql.desc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/magmi/!svn/ver/725/trunk/magmi/plugins/utilities/customsql/prequests/removeallorphans.sql.desc
+END

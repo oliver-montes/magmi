@@ -1,0 +1,52 @@
+10
+
+dir
+823
+https://magmi.svn.sourceforge.net/svnroot/magmi/trunk/magmi/plugins/base/itemprocessors
+https://magmi.svn.sourceforge.net/svnroot/magmi
+
+
+
+2011-12-02T01:32:25.396056Z
+820
+dweeves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69904d63-209b-40b2-b39f-34af9802e1b1
+
+importlimiter
+dir
+
+related
+dir
+
+genericmapper
+dir
+
+columnmapper
+dir
+
+configurables
+dir
+
+defaultvalues
+dir
+
+productdeleter
+dir
+
+upcross_sell
+dir
+

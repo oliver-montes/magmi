@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/plugins/base/general/reindex
+END
+options_panel.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/plugins/base/general/reindex/options_panel.php
+END
+magmi_reindexing_plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/plugins/base/general/reindex/magmi_reindexing_plugin.php
+END

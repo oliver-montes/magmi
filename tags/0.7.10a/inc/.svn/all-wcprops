@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc
+END
+dbhelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc/dbhelper.class.php
+END
+magmi_utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc/magmi_utils.php
+END
+properties.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc/properties.php
+END
+magmi_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc/magmi_config.php
+END
+magmi_engine.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc/magmi_engine.php
+END
+magmi_version.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc/magmi_version.php
+END
+magmi_statemanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc/magmi_statemanager.php
+END
+fshelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc/fshelper.php
+END
+magmi_pluginhelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/inc/magmi_pluginhelper.php
+END

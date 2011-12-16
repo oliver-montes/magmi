@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/magmi/!svn/ver/743/tags/0.7.15/tests
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/magmi/!svn/ver/743/tags/0.7.15/tests/base.php
+END
+pablo.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/magmi/!svn/ver/743/tags/0.7.15/tests/pablo.php
+END
+pablo.csv
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/magmi/!svn/ver/743/tags/0.7.15/tests/pablo.csv
+END
+test.csv
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/magmi/!svn/ver/743/tags/0.7.15/tests/test.csv
+END

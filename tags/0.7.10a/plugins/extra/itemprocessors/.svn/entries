@@ -1,0 +1,49 @@
+10
+
+dir
+823
+https://magmi.svn.sourceforge.net/svnroot/magmi/tags/0.7.10a/plugins/extra/itemprocessors
+https://magmi.svn.sourceforge.net/svnroot/magmi
+
+
+
+2011-05-14T17:15:17.671857Z
+569
+dweeves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69904d63-209b-40b2-b39f-34af9802e1b1
+
+imageprocessor
+dir
+
+categories
+dir
+
+customoptions
+dir
+
+tierprice
+dir
+
+valuetrim
+dir
+
+valuereplacer
+dir
+
+itemindexer
+dir
+

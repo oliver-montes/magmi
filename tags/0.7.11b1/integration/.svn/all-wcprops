@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/integration
+END
+magmi_datapumpdatasource.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/integration/magmi_datapumpdatasource.php
+END
+pumpfactory.ini
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/integration/pumpfactory.ini
+END
+sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/integration/sample.php
+END
+magmi_datapump.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/integration/magmi_datapump.php
+END
+productimport_datapump.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/magmi/!svn/ver/612/tags/0.7.11b1/integration/productimport_datapump.php
+END

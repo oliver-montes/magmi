@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/magmi/!svn/ver/517/trunk/magmi/plugins/base/itemprocessors/genericmapper/mappings/default
+END
+visibility.csv
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/magmi/!svn/ver/256/trunk/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/visibility.csv
+END
+page_layout.csv
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/magmi/!svn/ver/433/trunk/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/page_layout.csv
+END
+options_container.csv
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/magmi/!svn/ver/256/trunk/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/options_container.csv
+END
+status.csv
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/magmi/!svn/ver/256/trunk/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/status.csv
+END
+__common__.csv
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/magmi/!svn/ver/517/trunk/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/__common__.csv
+END

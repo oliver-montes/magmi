@@ -1,0 +1,92 @@
+10
+
+dir
+823
+https://magmi.svn.sourceforge.net/svnroot/magmi/tags/0.7.12
+https://magmi.svn.sourceforge.net/svnroot/magmi
+
+
+
+2011-07-07T20:53:15.211360Z
+698
+dweeves
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+69904d63-209b-40b2-b39f-34af9802e1b1
+
+build
+dir
+
+state
+dir
+
+plugins
+dir
+
+tests
+dir
+
+integration
+dir
+
+conf
+dir
+
+cli
+dir
+
+ReleaseNotes.txt
+file
+
+
+
+
+2011-12-16T09:25:54.000000Z
+e4bea8c4d1699c72193c3978a19d8ce9
+2011-07-07T00:50:38.736382Z
+693
+dweeves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2764
+
+engines
+dir
+
+inc
+dir
+
+web
+dir
+

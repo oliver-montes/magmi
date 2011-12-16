@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/plugins/utilities/customsql/prequests
+END
+resetstock.sql.desc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/plugins/utilities/customsql/prequests/resetstock.sql.desc
+END
+removecats.sql.desc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/plugins/utilities/customsql/prequests/removecats.sql.desc
+END
+resetstock.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/plugins/utilities/customsql/prequests/resetstock.sql
+END
+removecats.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/magmi/!svn/ver/576/tags/0.7.10a/plugins/utilities/customsql/prequests/removecats.sql
+END
