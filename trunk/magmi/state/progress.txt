@@ -1,0 +1,55 @@
+startup:Running Magmi Product Import Engine v1.5.1 by dweeves
+startup:Import Mode:update
+title:MAGMI by dweeves - version:0.7.14
+step:step:0.5%
+plugin;SQL_Datasource;pluginhello:Generic SQL Datasource-1.0.2-Dweeves- 
+plugin;CategoryImporter;pluginhello:On the fly category creator/importer-0.1.7-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=On_the_fly_category_creator/importer 
+plugin;DefaultValuesItemProcessor;pluginhello:Default Values setter-0.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Default_Values_setter 
+plugin;ImportLimiter;pluginhello:Magmi Import Limiter-0.0.5-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Magmi_Import_Limiter 
+plugin;GenericMapperProcessor;pluginhello:Generic mapper-0.0.6a-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Generic_mapper 
+plugin;GenericMapperProcessor;startup:Generic mapper v0.0.6a - No custom mapping found
+plugin;ValueTrimItemProcessor;pluginhello:Value Trimmer for select/multiselect-0.0.3-Dweeves-http://sourceforge.net/apps/mediawiki/magmi/index.php?title=Value_Trimmer_for_select/multiselect 
+plugin;Magmi_DefaultAttributeItemProcessor;pluginhello:Standard Attribute Import-1.0.2-Dweeves- 
+startup:Performing Datasouce Lookup...
+lookup:11:0.00049400329589844
+startup:Found 11 records, took 0.00049400329589844 sec
+columns:2
+plugin;DefaultValuesItemProcessor;startup:Default Values setter v0.0.5 - Adding Columns 
+startup:Ajusted processed columns:10
+itime:1 - 0.00019693374633789 - 0.00019693374633789
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:2 - 0.0013060569763184 - 0.00089311599731445
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:3 - 0.0024349689483643 - 0.00085091590881348
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:4 - 0.0038678646087646 - 0.0011498928070068
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:5 - 0.0049889087677002 - 0.0008699893951416
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:6 - 0.0062110424041748 - 0.00094318389892578
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:7 - 0.0078189373016357 - 0.001399040222168
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:8 - 0.0090930461883545 - 0.00098705291748047
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:9 - 0.010427951812744 - 0.000885009765625
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:10 - 0.011833906173706 - 0.00093483924865723
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:11 - 0.013284921646118 - 0.0009620189666748
+dbtime:0 - 0 - 0 - 0
+skip:skipping unknown sku: - update mode set
+itime:11 - 0.014462947845459 - 0.00079989433288574
+dbtime:0 - 0 - 0 - 0
+info:Skus imported OK:0/0
+end:Import Ended

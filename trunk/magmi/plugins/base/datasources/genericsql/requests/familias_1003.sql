@@ -1,0 +1,1 @@
+select nombre from familias where `Proveedor` = 1003

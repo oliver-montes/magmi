@@ -136,7 +136,7 @@ class Properties
         } 
     }
     } 
-
+    
     if (!$handle = fopen($path, 'w')) { 
         return false; 
     } 
